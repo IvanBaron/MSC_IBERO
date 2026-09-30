@@ -1,0 +1,12 @@
+# Solo se versiona el notebook 05 y lo que necesita para correr.
+# Todo lo demás de la carpeta (otros notebooks, datos crudos de 6.5 GB, GIFs, borradores) queda fuera.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/05_quien_pudo_quedarse_en_casa.ipynb
+!/datos.py
+!/construir_matriz_modelo.py
+!/descargar_mapa_base.py
+!/mapa_base_zmvm.png
+!/mapa_base_zmvm.json
