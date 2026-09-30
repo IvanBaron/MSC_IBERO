@@ -3,7 +3,7 @@
 Análisis de las redes diarias de movilidad de la Zona Metropolitana del Valle de México
 (ZMVM) durante la pandemia de COVID-19, del 1 de enero de 2020 al 31 de marzo de 2021.
 
-El notebook [`05_quien_pudo_quedarse_en_casa.ipynb`](05_quien_pudo_quedarse_en_casa.ipynb)
+El notebook [`quien_pudo_quedarse_en_casa.ipynb`](quien_pudo_quedarse_en_casa.ipynb)
 responde dos preguntas:
 
 1. **¿Se puede pronosticar cuántos viajes tendrá mañana cada conexión entre AGEBs?**
@@ -52,7 +52,7 @@ siguientes lo reutiliza.
 
 | Archivo | Para qué sirve |
 |---|---|
-| `05_quien_pudo_quedarse_en_casa.ipynb` | El análisis completo, con texto, gráficas y resultados |
+| `quien_pudo_quedarse_en_casa.ipynb` | El análisis completo, con texto, gráficas y resultados |
 | `datos.py` | Localiza la carpeta de datos y lee la red de un día |
 | `construir_matriz_modelo.py` | Construye la matriz de conexiones estables que usa la primera parte |
 | `descargar_mapa_base.py` | Descarga el mapa base de OpenStreetMap (ya incluido como PNG) |
